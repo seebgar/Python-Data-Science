@@ -1,0 +1,4 @@
+sudo pip3 install pipenv
+pipenv shell
+pip install matplotlib
+jupyter notebook
